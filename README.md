@@ -3,9 +3,9 @@
 Para aprimorar o atendimento e a experiência dos clientes, o shopping pretende analisar as preferências de consumo e o perfil de cada cliente. Para isso, foram coletadas informações que permitem traçar um panorama detalhado do comportamento de compra ao longo dos últimos dois anos, incluindo variáveis demográficas e de consumo em categorias específicas de produtos. Abaixo, uma explicação das principais variáveis envolvidas nessa análise:
 
 </br>
-ID: Trata-se de um identificador único para cada cliente, essencial para garantir que as preferências e os padrões de compra sejam associados de forma individual, preservando a privacidade e facilitando o acompanhamento de compras ao longo do tempo.
+ID: Trata-se de um identificador único para cada cliente, essencial para garantir que as preferências e os padrões de compra sejam associados de forma individual, preservando a privacidade e facilitando o acompanhamento de compras ao longo do tempo.</br>
 
-</br>
+
 Income: Refere-se à renda anual declarada pelo cliente, uma variável importante para entender o poder de compra e potencial para gastos em determinadas categorias. Com ela, o shopping consegue segmentar melhor os clientes, criando campanhas e recomendações de produtos alinhadas ao perfil financeiro de cada grupo.
 
 </br>
